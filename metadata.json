@@ -1,0 +1,6 @@
+{
+  "name": "Waves Car Wash",
+  "description": "Doorstep car wash, snow foam cleaning, interior vacuuming, and vehicle detailing across Chennai, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
